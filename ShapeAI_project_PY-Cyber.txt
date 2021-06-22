@@ -1,0 +1,8 @@
+Enter the city name: Jaipur
+-------------------------------------------------------------
+Weather Stats for - JAIPUR  || 22 Jun 2021 | 05:44:09 AM
+-------------------------------------------------------------
+Current temperature is: 32.62 deg C
+Current weather desc  : haze
+Current Humidity      : 49 %
+Current wind speed    : 4.12 kmph
